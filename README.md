@@ -54,6 +54,6 @@ The proof of the existing datasets in PG Admin is shown in the following screens
 ## Dashboard
 I will use Tableau to create the dashboard. I will try to make the cluster Persona elegible (interactive element) for the analyst and once selecting the Persona, the data from the different variables will be displayed so they know their consumption habits to be able to create the correct email campaigns for them.
 
-This is the storyboard.
-! [Storyboard]()
+This is the blueprint for the dashboard
+![Storyboard](https://github.com/karen-trena/Final_Bootcamp_Project_Segment2/blob/main/Picture5.jpg)
 
