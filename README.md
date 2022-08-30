@@ -47,9 +47,9 @@ For more information about the models, please consult [slide 7](https://docs.goo
 ! [ERD with relationships] ()
 
 The proof of the existing datasets in PG Admin is shown in the following screenshots:
-![screenshot 1] ()
-![screenshot 2] ()
-![screenshot 3] ()
+* [OriginalDataset](https://github.com/karen-trena/Final_Bootcamp_Project_Segment2/blob/main/Picture1.png)
+* [DatasetWithIntervalsAndClusters](https://github.com/karen-trena/Final_Bootcamp_Project_Segment2/blob/main/Picture2.png)
+
 
 ## Dashboard
 I will use Tableau to create the dashboard. I will try to make the cluster Persona elegible for the analyst and once selecting the persona, the data from the different variables will be displayed so they know their consumption habits to be able to create the correct email campaigns for them.
