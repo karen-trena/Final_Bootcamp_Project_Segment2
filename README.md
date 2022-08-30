@@ -43,8 +43,8 @@ For more information about the models, please consult [slide 7](https://docs.goo
 ## Databases
 * This is the [original dataset](https://github.com/karen-trena/Final_Bootcamp_Project_Segment2/blob/main/CCGENERAL.csv)
 * This [dataset](https://github.com/karen-trena/Final_Bootcamp_Project_Segment2/blob/main/OUTPUT_WITH_4_PERSONAS_AND_CATEGORIES.csv) contains the clusters and the intervals generated for each variable.
-* This [dataset](https://github.com/karen-trena/Final_Bootcamp_Project_Segment2/blob/main/OUTPUT_WITH_4_PERSONAS.csv) contains the original dataset with the clusters included. This were joined in Pandas and it would be useful if these were the only pieces of information. Nonetheless, as there could be much more data on the Company to join with this one, we decided to leave the original dataset, bullet 1 dataset, and the dataset with the clusters and intervals created, bullet 2 dataset, separately in PG Admin. This is the 
-! [ERD with relationships] ()
+* This [dataset](https://github.com/karen-trena/Final_Bootcamp_Project_Segment2/blob/main/OUTPUT_WITH_4_PERSONAS.csv) contains the original dataset with the clusters included. This were joined in Pandas and it would be useful if these were the only pieces of information. Nonetheless, as there could be much more data on the Company to join with this one, we decided to leave the original dataset, bullet 1 dataset, and the dataset with the clusters and intervals created, bullet 2 dataset, separately in PG Admin. This is the ERD:
+![ERD with relationships](https://github.com/karen-trena/Final_Bootcamp_Project_Segment2/blob/main/Picture3.png)
 
 The proof of the existing datasets in PG Admin is shown in the following screenshots:
 * [OriginalDataset](https://github.com/karen-trena/Final_Bootcamp_Project_Segment2/blob/main/Picture1.png)
@@ -52,7 +52,7 @@ The proof of the existing datasets in PG Admin is shown in the following screens
 
 
 ## Dashboard
-I will use Tableau to create the dashboard. I will try to make the cluster Persona elegible for the analyst and once selecting the persona, the data from the different variables will be displayed so they know their consumption habits to be able to create the correct email campaigns for them.
+I will use Tableau to create the dashboard. I will try to make the cluster Persona elegible (interactive element) for the analyst and once selecting the Persona, the data from the different variables will be displayed so they know their consumption habits to be able to create the correct email campaigns for them.
 
 This is the storyboard.
 ! [Storyboard]()
