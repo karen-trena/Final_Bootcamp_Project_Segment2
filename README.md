@@ -44,7 +44,7 @@ For more information about the models, please consult [slide 7](https://docs.goo
 * This is the [original dataset](https://github.com/karen-trena/Final_Bootcamp_Project_Segment2/blob/main/CCGENERAL.csv)
 * This [dataset](https://github.com/karen-trena/Final_Bootcamp_Project_Segment2/blob/main/OUTPUT_WITH_4_PERSONAS_AND_CATEGORIES.csv) contains the clusters and the intervals generated for each variable.
 * This [dataset](https://github.com/karen-trena/Final_Bootcamp_Project_Segment2/blob/main/OUTPUT_WITH_4_PERSONAS.csv) contains the original dataset with the clusters included. This were joined in Pandas and it would be useful if these were the only pieces of information. Nonetheless, as there could be much more data on the Company to join with this one, we decided to leave the original dataset, bullet 1 dataset, and the dataset with the clusters and intervals created, bullet 2 dataset, separately in PG Admin. This is the ERD:
-![ERD with relationships](https://github.com/karen-trena/Final_Bootcamp_Project_Segment2/blob/main/Picture3.png)
+![ERD with relationships](https://github.com/karen-trena/Final_Bootcamp_Project_Segment2/blob/main/Picture4.png)
 
 The proof of the existing datasets in PG Admin is shown in the following screenshots:
 * [OriginalDataset](https://github.com/karen-trena/Final_Bootcamp_Project_Segment2/blob/main/Picture1.png)
